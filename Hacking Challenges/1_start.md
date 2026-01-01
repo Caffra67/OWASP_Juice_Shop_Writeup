@@ -1,7 +1,6 @@
 ## Score Board
 
 You can find information about hidden path in source code exactly at main.js
-
 <img width="727" height="392" alt="image" src="https://github.com/user-attachments/assets/3bc09966-bc76-4364-b7a1-c0e43d59d0bf" />
 
 ## DOM XSS
@@ -70,6 +69,11 @@ by Ben "epi" Risher 🤓                 ver: 2.13.1
 [####################] - 47s   436099/436099  0s      found:28      errors:430787 
 ```
 ## Error Handling
+
+There is multiple options to do it, i did it while looking at URL from Fuzzing 
+Like this one: http://XXX/rest
+<img width="2027" height="874" alt="image" src="https://github.com/user-attachments/assets/843d22dd-5973-473d-8386-0da43a321b63" />
+
 
 ## Exposed Metrics
 
